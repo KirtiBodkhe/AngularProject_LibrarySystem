@@ -1,0 +1,48 @@
+{
+  "Users": [
+    {
+      "id": 4,
+      "Book_title": "An Acceptable Time",
+      "Book_auther": "Madeleine L'Engle",
+      "NumberOfBooks": "5"
+    },
+    {
+      "id": "7",
+      "Book_title": "All Passion Spent",
+      "Book_auther": "neha",
+      "NumberOfBooks": "5"
+    },
+    {
+      "id": "15",
+      "Book_title": "Half Girlfriend",
+      "Book_auther": "chetan Bhagat",
+      "NumberOfBooks": "1000"
+    },
+    {
+      "id": "311",
+      "Book_title": "Alone on a Wide, Wide Sea",
+      "Book_auther": "monggoooo",
+      "NumberOfBooks": "20"
+    },
+    {
+      "id": "34",
+      "Book_title": "shruti",
+      "Book_auther": "andewar",
+      "NumberOfBooks": "201"
+    },
+    {
+      "id": "150",
+      "Book_title": "Dragon prince",
+      "Book_auther": "chetan Bhagat",
+      "NumberOfBooks": "1000"
+    }
+  ],
+  "posts": [
+    {
+      "id": 6,
+      "Book_title": "All Passion Spent",
+      "Book_auther": "Vita Sackville-West",
+      "NumberOfBooks": "1"
+    }
+  ]
+}
